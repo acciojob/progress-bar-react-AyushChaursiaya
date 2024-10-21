@@ -45,7 +45,7 @@ const styles = {
         width: "25%",
         height: "30px",
         backgroundColor: "#f0f0f0",
-        borderRadius: "5px",
+        // borderRadius: "5px",
         overflow: "hidden",
         margin: "20px 0",
     },
