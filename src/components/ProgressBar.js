@@ -34,7 +34,6 @@ const ProgressBar = () => {
         </div>
       </div>
       <span>{progress}%</span>
-      {progress === 100 && <div>Operation Complete!</div>}
     </div>
   );
 };
