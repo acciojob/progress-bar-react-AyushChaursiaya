@@ -18,7 +18,7 @@ const ProgressBar = () => {
 
     return (
         <>
-            <h2>Progress Bar</h2>
+        <h2>Progress Bar</h2>
             <div>
                 <div id="barOuter"
                     style={styles.barOuter}
